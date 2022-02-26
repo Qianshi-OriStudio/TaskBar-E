@@ -1,0 +1,12 @@
+[WindowInitializing]
+Taskbar.BackGroundColor=#343a40
+#BetaFunc,please don't use it
+Taskbar.CanWithStyle=false
+Taskbar.CanWithStyle.IsDark=false
+
+
+
+
+
+
+[ApplicationLink]
